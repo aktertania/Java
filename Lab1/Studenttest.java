@@ -10,9 +10,9 @@ public class Studenttest {
         String name; 
         double cgpa; 
 
-        id = 153402342;
-        name = "Md Sifat hossain"; 
-        cgpa = 3.06; 
+        id = 153402355;
+        name = "Tania Akter"; 
+        cgpa = 3.83; 
 
        
         Student student = new Student();
